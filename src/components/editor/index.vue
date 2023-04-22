@@ -19,6 +19,6 @@ onMounted(() => {
   display: flex;
   width: 250px;
   height: 100vh;
-  background-color: yellow;
+  background-color: #fff;
 }
 </style>

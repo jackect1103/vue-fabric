@@ -19,6 +19,7 @@ let materialsList = ref([])
   height: 100vh;
   border-right: 1px solid #ccc;
   box-sizing: border-box;
+  background-color: #fff;
   .item{
     flex: 1;
     width: 100%;
